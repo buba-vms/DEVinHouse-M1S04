@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b0327;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-center {
+  margin-top: 30px;
+}
+
+#apagar {
+  background-color: #f60074;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 3px 20px;
+}
+
+.array {
+  color: #f60074;
+}
