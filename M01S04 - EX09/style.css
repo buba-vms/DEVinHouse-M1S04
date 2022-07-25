@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #1b0327;
+}
+
+h1 {
+  color: #f60074;
+}
+ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+main {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin-top: 15px;
+  padding: 5px 20px;
+  background: gainsboro;
+  min-width: 300px;
+  width: 40vw;
+  line-height: 1rem;
+}
+
+.info {
+  font-weight: lighter;
+  padding: 10px 0;
+}
